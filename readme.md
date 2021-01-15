@@ -1,2 +1,2 @@
 #Git course
-crash course for Git
+crash course for Gitgit 
